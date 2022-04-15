@@ -1,0 +1,19 @@
+name = "Fletcher Kelly"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "Cloud Advocate, Home Automation Novice, Technology Junkie."
+company = 'Microsoft'
+# company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
+location = "Earth"
+# alternatives:
+# location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
+# location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
+
+[social]
+#  email = "user@domain.tld"
+#  facebook = "yourfacebookusername"
+  github = "fskelly"
+  twitter = "fskelly"
